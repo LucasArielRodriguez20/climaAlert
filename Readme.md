@@ -103,4 +103,6 @@ docker build --build-arg SERVICE_NAME=otro-service -f otro-service/Dockerfile .
 
 Los servicios son aplicaciones Spring Boot mínimas, listas para extender con controladores, repositorios y lógica de negocio. `common-lib` contiene el código compartido entre servicios.
 -->
+##Ejemplo de la recepcion del mail
 
+<img width="1843" height="957" alt="Captura desde 2026-07-04 18-13-03" src="https://github.com/user-attachments/assets/41585275-7889-4ba3-af33-6bfc2bf89825" />
