@@ -11,8 +11,7 @@
   <url>https://github.com/dds-utn</url>
   <modules>
     <module>common-lib</module>
-    <module>donaciones-service</module>
-    <module>notificaciones-service</module>
+    <module>clima-service</module>
   </modules>
 
   <properties>
@@ -57,6 +56,11 @@
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-mail</artifactId>
     </dependency>
   </dependencies>
 

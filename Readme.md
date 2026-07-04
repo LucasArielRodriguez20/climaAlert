@@ -1,4 +1,4 @@
-# ddsi-tp-template
+<!--# ddsi-tp-template
 
 Plantilla base para el trabajo práctico de DDSI (UTN FRBA). Implementa una arquitectura de servicios con Spring Boot y una biblioteca compartida, usando un reactor de Maven multi-módulo.
 
@@ -102,3 +102,5 @@ docker build --build-arg SERVICE_NAME=otro-service -f otro-service/Dockerfile .
 ## Estado del proyecto
 
 Los servicios son aplicaciones Spring Boot mínimas, listas para extender con controladores, repositorios y lógica de negocio. `common-lib` contiene el código compartido entre servicios.
+-->
+
